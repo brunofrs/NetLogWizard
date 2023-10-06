@@ -9,9 +9,9 @@
 
 # Recursos:
 - Coleta de logs ssh, sistema e serviços web.
-- Identificação e monitoria de dispositivos de redes 
-- Análise Avançada de Logs.
-- Notificações e Alertas Personalizáveis.
+- Identificação e monitoria de dispositivos da rede interna.
+- Análise avançada de Logs.
+- Notificações e alertas personalizáveis.
 
 
 
