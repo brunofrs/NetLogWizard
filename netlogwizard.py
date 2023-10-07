@@ -71,7 +71,7 @@ def login_sistema_log():
             login_logs = [linha.strip() for linha in linhas]
 
     except Exception as e:
-        login_logs.append(f"Erro ao acessar os logs de SSH: {str(e)}")
+        login_logs.append(f"Erro ao acessar os logs de login: {str(e)}")
 
     return login_logs
 
